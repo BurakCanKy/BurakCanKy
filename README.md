@@ -1,10 +1,20 @@
 <h1 align="center">I'm Burak Can</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=burakcanky&label=Profile%20views&color=0e75b6&style=flat" alt="burakcanky" /> 
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=burakcanky" alt="burakcanky" />
+  </a> 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/burak-can-kaya-a3330a1b5/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/burak-can-kaya-a3330a1b5/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
 
